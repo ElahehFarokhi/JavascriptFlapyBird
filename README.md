@@ -1,2 +1,2 @@
 # JavascriptFlapyBird
-neon learn javascript simple music player
+neon learn javascript simple flappy bird game
